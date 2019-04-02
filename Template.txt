@@ -28,7 +28,7 @@ Hidden=1
 
 
 [Metadata]
-Name=Explorer
+Name=
 Author=AnomalousFox
 Information=Icon Skin
 License= N/A
