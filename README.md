@@ -9,5 +9,5 @@ Load up rainmeter and load each Icon you wish to use.
 
   For the same effect as it is in the gif. https://imgur.com/a/u3PryHU
   set the transparency of the Icon to 90% 
-  and then set Fade in for On hover effect
+  and then set Fade in for the On hover effect
   
