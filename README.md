@@ -7,7 +7,7 @@ How to Use -
 Copy Entire file into rainmeter skin directory: Pathfile looks something like this C:\Users\Username\Documents\Rainmeter\Skins
 load up rainmeter and load each Icon you wish to use.
 
-  For the same effects and in the gif. https://imgur.com/a/u3PryHU
+  For the same effect as it is in the gif. https://imgur.com/a/u3PryHU
   set the transparency of the Icon to 90% 
   and then set Fade in for On hover effect
   
