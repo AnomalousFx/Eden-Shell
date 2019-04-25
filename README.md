@@ -10,4 +10,4 @@ How to Use -
 Copy Entire file into rainmeter skin directory. Pathfile looks something like this "C:\Users\Username\Documents\Rainmeter\Skins".
 Load up rainmeter and load each Icon you wish to use.
 
-Warning: Whilst Hovering Over the Icon your CPU Usage will increase drastically do not attempt to use whilst your CPU is under heavy load as it could shut down programs of bluescreen your computer. 
+Warning: Whilst Hovering Over the Icon your CPU Usage will increase drastically do not attempt to use whilst your CPU is under heavy load as it could shut down programs or bluescreen your computer. 
