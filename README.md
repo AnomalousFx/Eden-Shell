@@ -1,5 +1,8 @@
 Github Latest Release - https://github.com/AnomalousFx/Eden-Shell
 
+Special Thanks  - 
+haibusa2005(https://forum.rainmeter.net/memberlist.php?mode=viewprofile&u=15300) - for the code relating to the fade in and out effect
+
 Eden-Shell
 Rainmeter Icon Skin
 
