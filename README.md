@@ -3,6 +3,7 @@ Github Latest Release - https://github.com/AnomalousFx/Eden-Shell
 
 Special Thanks  - 
 haibusa2005(https://forum.rainmeter.net/memberlist.php?mode=viewprofile&u=15300) - for the code relating to the fade in and out effect
+Mix Silmeria (https://www.deviantart.com/mixsilmeria) - For the code to make the recycle bin function. 
 
 
 Eden-Shell
