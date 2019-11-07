@@ -1,6 +1,6 @@
 Github Latest Release - https://github.com/AnomalousFx/Eden-Shell
 
-If you plan on using the Google Play Music Desktop Player icon you will need to edit the file and change the directory path to where your GPMDP exectuable file is located. An example of where it would be located is placed in the file already. 
+If you plan on using the Google Play Music Desktop Player icon you will need to edit the file and change the directory path to where your GPMDP exectuable file is located. An example of where it would be located is placed in the .ini already. 
 
 Special Thanks  - 
 
