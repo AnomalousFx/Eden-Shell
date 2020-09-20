@@ -1,4 +1,8 @@
-Github Latest Release - https://github.com/AnomalousFx/Eden-Shell
+This Project is no longer maintained.
+Feel Free to Fork it and make your own Versions of it.
+If your having any issues with it you can email me at anomalous.fx@gmail.com
+
+<del>Github Latest Release - https://github.com/AnomalousFx/Eden-Shell</del>
 
 If you plan on using the Google Play Music Desktop Player icon you will need to edit the file and change the directory path to where your GPMDP exectuable file is located. An example of where it would be located is placed in the .ini already. 
 
@@ -13,5 +17,5 @@ Eden-Shell
 Rainmeter Icon Skin
 
 How to Use - 
-Copy Entire file into rainmeter skin directory. Pathfile looks something like this "C:\Users\Username\Documents\Rainmeter\Skins".
+Copy Entire file into rainmeter skin directory. Pathfile looks something like this "C:\Users\"Username"\Documents\Rainmeter\Skins".
 Load up rainmeter and load each Icon you wish to use.
