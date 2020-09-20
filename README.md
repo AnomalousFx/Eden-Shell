@@ -1,4 +1,5 @@
-This Project is no longer maintained.
+<b>This Project is no longer maintained.</b>
+
 Feel Free to Fork it and make your own Versions of it.
 If your having any issues with it you can email me at anomalous.fx@gmail.com
 
